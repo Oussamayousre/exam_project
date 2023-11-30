@@ -1,0 +1,14 @@
+# brew update && brew install gcc (this includes gfortran)
+# python==3.10.12
+# blinker
+# importlib-metadata
+# pyzmq
+Pillow
+# numpy
+# scipy
+scikit-learn
+matplotlib
+pandas
+umap-learn
+sentence-transformers
+umap-learn[plot]

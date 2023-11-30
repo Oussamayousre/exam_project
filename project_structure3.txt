@@ -1,0 +1,71 @@
+    ├── .git/
+    │   ├── COMMIT_EDITMSG
+    │   ├── HEAD
+    │   ├── branches/
+    │   ├── config
+    │   ├── description
+    │   ├── hooks/
+    │   │   ├── applypatch-msg.sample
+    │   │   ├── commit-msg.sample
+    │   │   ├── fsmonitor-watchman.sample
+    │   │   ├── post-update.sample
+    │   │   ├── pre-applypatch.sample
+    │   │   ├── pre-commit.sample
+    │   │   ├── pre-merge-commit.sample
+    │   │   ├── pre-push.sample
+    │   │   ├── pre-rebase.sample
+    │   │   ├── pre-receive.sample
+    │   │   ├── prepare-commit-msg.sample
+    │   │   ├── push-to-checkout.sample
+    │   │   └── update.sample
+    │   ├── index
+    │   ├── info/
+    │   │   └── exclude
+    │   ├── logs/
+    │   │   ├── HEAD
+    │   │   └── refs/
+    │   │       ├── heads/
+    │   │       │   ├── features-method-umap
+    │   │       │   └── main
+    │   │       └── remotes/
+    │   │           └── origin/
+    │   │               ├── features-method-umap
+    │   │               └── main
+    │   ├── objects/
+    │   │   ├── c8/
+    │   │   │   └── 0e8daa7b7cd9331160ca3a512b5c24600829e9
+    │   │   ├── db/
+    │   │   │   └── a22a5c273e7dc563009777f9bb71c8ffa82201
+    │   │   ├── e6/
+    │   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+    │   │   ├── info/
+    │   │   └── pack/
+    │   └── refs/
+    │       ├── heads/
+    │       │   ├── features-method-umap
+    │       │   └── main
+    │       ├── remotes/
+    │       │   └── origin/
+    │       │       ├── features-method-umap
+    │       │       └── main
+    │       └── tags/
+    ├── .gitignore
+    ├── data/
+    │   └── ng20_data.joblib
+    ├── dockerfile
+    ├── main.py
+    ├── models/
+    │   ├── K-means/
+    │   │   └── kmeans_umap.pkl
+    │   └── reducers/
+    │       └── umap_model.pkl
+    ├── notebooks/
+    │   └── umap_method_testing.ipynb
+    ├── project_structure3.txt
+    ├── readme.md
+    ├── requirements.txt
+    ├── src/
+    │   ├── __pycache__/
+    │   │   └── utils.cpython-310.pyc
+    │   └── utils.py
+    └── tree.py
