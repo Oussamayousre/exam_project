@@ -57,7 +57,7 @@ docker run reduce_app
 ![Alt text](images/image_1.png)
 ### K means projcection of its results 
 ![Alt text](images/image_2.png)
-# Project Step : 
+# Project Steps using git and GitHub : 
 To deploy the project on GitHub and have each group member develop a different method, we followed the following steps:
 - Created a new repository named "exam_project" for the project on GitHub.
 - Each member cloned the repository to their local machine using the command:
