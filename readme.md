@@ -50,7 +50,13 @@ python main.py
 docker build -t reducer_app .
 docker run reduce_app 
 ```
-
+# Streamlit UI 
+### the entire streamlit page 
+![Alt text](images/image.png)
+### UMAP reducer projection of data
+![Alt text](images/image_1.png)
+### K means projcection of its results 
+![Alt text](images/image_2.png)
 # Project Step : 
 To deploy the project on GitHub and have each group member develop a different method, we followed the following steps:
 - Created a new repository named "exam_project" for the project on GitHub.
